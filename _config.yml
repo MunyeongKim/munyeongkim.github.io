@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Munyeong Kim"
+title                    : "Munyeong Kim | 김문영"
 title_separator          : "-"
-name                     : &name "Munyeong Kim"
-description              : &description "Master's candidate @ Université de Montréal HCI Group"
+name                     : &name "Munyeong Kim | 김문영"
+description              : &description "M.S. Candidate at Université de Montréal DIRO working on human-AI agent interaction and AI memory"
 url                      : https://munyeongkim.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MunyeongKim/munyeongkim.github.io"
@@ -23,18 +23,26 @@ repository               : "MunyeongKim/munyeongkim.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Munyeong Kim"
+  name             : "Munyeong Kim | 김문영"
   pronouns         : "he/him"
-  bio              : "HCI master's candidate at Université de Montréal"
-  location         : "Montréal, Canada"
-  employer         : "Université de Montréal HCI Group"
+  bio              : "Human-AI agent interaction and AI memory"
+  location         : "Montréal, QC, Canada"
+  employer         : "M.S. Candidate, Department of Computer Science and Operations Research (DIRO), Université de Montréal"
   uri              : # Personal website URL
   email            : # Optional: your email
+  email_obfuscated : "kim.munyeong [at] umontreal [dot] ca"
+  custom_links:
+    - label        : "UdeM HCI Lab"
+      url          : "https://hci.iro.umontreal.ca/"
+      icon         : "fas fa-fw fa-users"
+    - label        : "Mila Profile"
+      url          : "https://mila.quebec/en/directory/munyeong-kim"
+      icon         : "fas fa-fw fa-link"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=mBcMSCwAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #
@@ -60,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "kimmunyeong"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
