@@ -25,12 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Munyeong Kim | 김문영"
   pronouns         : "he/him"
-  bio              : "Human-AI agent interaction and AI memory"
+  bio              : "M.S. Candidate"
   location         : "Montréal, QC, Canada"
-  employer         : "M.S. Candidate, Department of Computer Science and Operations Research (DIRO), Université de Montréal"
+  employer         : "Université de Montréal"
   uri              : # Personal website URL
   email            : # Optional: your email
-  email_obfuscated : "kim.munyeong [at] umontreal [dot] ca"
+  email_obfuscated : "[last].[first]@umontreal[dot]ca"
   custom_links:
     - label        : "UdeM HCI Lab"
       url          : "https://hci.iro.umontreal.ca/"
