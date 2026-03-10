@@ -23,8 +23,7 @@ Find Me
 
 <section id="cv">
   <h2>CV</h2>
-  <p>You can open the current CV directly as a PDF.</p>
-  <p><a href="/files/Munyeong_Kim_CV_251119.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">Open CV (PDF)</a></p>
+  <p><a href="/files/Munyeong_Kim_CV_251119.pdf" target="_blank" rel="noopener noreferrer">Click here</a>. Current version: Nov. 19, 2025.</p>
 </section>
 
 <section id="publications">
