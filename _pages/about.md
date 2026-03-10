@@ -37,12 +37,15 @@ Find Me
   <h2>Publications</h2>
   <ul>
     <li>Priyan Vaithilingam, Munyeong Kim, Frida-Cecilia Acosta-Parenteau, Daniel Lee, Amine Mhedhbi, Elena L. Glassman, and Ian Arawjo. "Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale." UIST 2025. <a href="https://doi.org/10.1145/3746059.3747778">DOI</a></li>
-    <li>Munyeong Kim and Sungsu Kim. "Generative AI in Mafia-like Game Simulation." CHI 2024 Student Research Competition. <a href="https://dl.acm.org/doi/10.1145/3613905.3647958">ACM Digital Library</a></li>
+    <li>Munyeong Kim and Sungsu Kim. "Generative AI in Mafia-like Game Simulation." arXiv preprint, 2023. Earlier archival/preprint version of the project. <a href="https://arxiv.org/abs/2309.11672">arXiv</a></li>
+    <li>Munyeong Kim and Sungsu Kim. "Generative AI in Mafia-like Game Simulation." CHI 2024 Student Research Competition. Conference version of the same project, adapted from the earlier preprint. <a href="https://dl.acm.org/doi/10.1145/3613905.3647958">ACM Digital Library</a></li>
   </ul>
   <p>For a fuller list, see <a href="https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en">Google Scholar</a>.</p>
 </section>
 
 <section id="talks">
   <h2>Talks</h2>
-  <p>Selected talks and presentations will live here as a compact section on the homepage rather than as separate archive pages.</p>
+  <ul>
+    <li>Mila HCAI Reading Group, Montréal, QC, Canada. Two presentations on human-AI interaction and AI memory.</li>
+  </ul>
 </section>
