@@ -14,20 +14,12 @@ My research focuses on human-AI agent interaction, especially the memory systems
 Current Focus
 ======
 
-- Human-Computer Interaction
-- Human-AI interaction
-- Shared memory between humans and AI agents
-- Interfaces that support human productivity
-- Agentic decision-making and human behavior simulation
+Human-Computer Interaction, Human-AI interaction, shared memory between humans and AI agents, interfaces that support human productivity, agentic decision-making and human behavior simulation.
 
 Find Me
 ======
 
-- [Google Scholar](https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/kimmunyeong/)
-- [X](https://x.com/Kim_Munyeong)
-- [UdeM HCI Lab](https://hci.iro.umontreal.ca/)
-- [Mila](https://mila.quebec/en/directory/munyeong-kim)
+[Google Scholar](https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/kimmunyeong/), [X](https://x.com/Kim_Munyeong), [UdeM HCI Lab](https://hci.iro.umontreal.ca/), [Mila](https://mila.quebec/en/directory/munyeong-kim)
 
 <section id="cv">
   <h2>CV</h2>
