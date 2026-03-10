@@ -35,7 +35,11 @@ Find Me
 
 <section id="publications">
   <h2>Publications</h2>
-  <p>For a current list of publications, see <a href="https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en">Google Scholar</a>. Once we decide which papers to feature, I can turn this into a short curated list on the homepage.</p>
+  <ul>
+    <li>Priyan Vaithilingam, Munyeong Kim, Frida-Cecilia Acosta-Parenteau, Daniel Lee, Amine Mhedhbi, Elena L. Glassman, and Ian Arawjo. "Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale." UIST 2025. <a href="https://doi.org/10.1145/3746059.3747778">DOI</a></li>
+    <li>Munyeong Kim and Sungsu Kim. "Generative AI in Mafia-like Game Simulation." CHI 2024 Student Research Competition. <a href="https://dl.acm.org/doi/10.1145/3613905.3647958">ACM Digital Library</a></li>
+  </ul>
+  <p>For a fuller list, see <a href="https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en">Google Scholar</a>.</p>
 </section>
 
 <section id="talks">
