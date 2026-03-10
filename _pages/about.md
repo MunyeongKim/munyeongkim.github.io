@@ -14,9 +14,11 @@ My research focuses on human-AI agent interaction, especially the memory systems
 Current Focus
 ======
 
-- Human-AI agent interaction
-- AI memory in interactive systems
-- User-shaped memory design for agents
+- Human-Computer Interaction
+- Human-AI interaction
+- Shared memory between humans and AI agents
+- Interfaces that support human productivity
+- Agentic decision-making and human behavior simulation
 
 Find Me
 ======
@@ -38,7 +40,7 @@ Find Me
   <ul>
     <li>Priyan Vaithilingam, Munyeong Kim, Frida-Cecilia Acosta-Parenteau, Daniel Lee, Amine Mhedhbi, Elena L. Glassman, and Ian Arawjo. "Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale." UIST 2025. <a href="https://doi.org/10.1145/3746059.3747778">DOI</a></li>
     <li>Munyeong Kim and Sungsu Kim. "Generative AI in Mafia-like Game Simulation." arXiv preprint, 2023. Earlier archival/preprint version of the project. <a href="https://arxiv.org/abs/2309.11672">arXiv</a></li>
-    <li>Munyeong Kim and Sungsu Kim. "Generative AI in Mafia-like Game Simulation." CHI 2024 Student Research Competition. Conference version of the same project, adapted from the earlier preprint. <a href="https://dl.acm.org/doi/10.1145/3613905.3647958">ACM Digital Library</a></li>
+    <li>Munyeong Kim. "GPTs in Mafia-like Game Simulation." CHI 2024 Student Research Competition. Conference version of the earlier project; research advised by Sungsu Kim. <a href="https://dl.acm.org/doi/10.1145/3613905.3647958">ACM Digital Library</a></li>
   </ul>
   <p>For a fuller list, see <a href="https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en">Google Scholar</a>.</p>
 </section>
@@ -46,6 +48,7 @@ Find Me
 <section id="talks">
   <h2>Talks</h2>
   <ul>
-    <li>Mila HCAI Reading Group, Montréal, QC, Canada. Two presentations on human-AI interaction and AI memory.</li>
+    <li>"Creating General User Models from Computer Use." Mila HCAI Reading Group, Mila - Quebec Artificial Intelligence Institute, Montréal, QC, Canada, August 5, 2025.</li>
+    <li>"Research Previews: Metaphors for Memory &amp; dBlocks." Mila HCAI Reading Group, Mila - Quebec Artificial Intelligence Institute, Montréal, QC, Canada, February 18, 2026. Co-presented with Avinash Bhat.</li>
   </ul>
 </section>
