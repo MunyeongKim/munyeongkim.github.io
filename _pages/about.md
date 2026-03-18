@@ -40,7 +40,7 @@ Find Me
   <h2>Talks</h2>
   <ul>
     <li>"Creating General User Models from Computer Use." Mila HCAI Reading Group, Mila - Quebec Artificial Intelligence Institute, Montréal, QC, Canada, August 5, 2025.</li>
-    <li>"Research Previews: Metaphors for Memory &amp; dBlocks." Mila HCAI Reading Group, Mila - Quebec Artificial Intelligence Institute, Montréal, QC, Canada, February 18, 2026. Co-presented with Avinash Bhat and Patrick Yung Kang Lee (University of Toronto, Human Interaction Visualization Lab).</li>
+    <li>"Research Previews: Metaphors for Memory &amp; dBlocks." Mila HCAI Reading Group, Mila - Quebec Artificial Intelligence Institute, Montréal, QC, Canada, February 18, 2026. Co-presented with Avinash Bhat (McGill) and Patrick Yung Kang Lee (U of T).</li>
   </ul>
 </section>
 
