@@ -47,6 +47,6 @@ Find Me
 <section id="volunteer">
   <h2>Volunteer</h2>
   <ul>
-    <li>Student Volunteer (camera support), ACM UIST 2025, Busan, Republic of Korea.</li>
+    <li>Student Volunteer (Photographer), ACM UIST 2025, Busan, Republic of Korea.</li>
   </ul>
 </section>
