@@ -29,6 +29,7 @@ Find Me
 <section id="publications">
   <h2>Publications</h2>
   <ul>
+    <li>Munyeong Kim, Michalis Famelis, and Ian Arawjo. "Metaphors for Memory: Charting a Design Space of AI Memory Tools and Interfaces." DIS 2026. To appear. <a href="/files/dis26-163-metaphors-for-memory.pdf">PDF</a> <a href="https://doi.org/10.1145/3800645.3812979">DOI</a></li>
     <li>Priyan Vaithilingam, Munyeong Kim, Frida-Cecilia Acosta-Parenteau, Daniel Lee, Amine Mhedhbi, Elena L. Glassman, and Ian Arawjo. "Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale." UIST 2025. <a href="https://doi.org/10.1145/3746059.3747778">DOI</a></li>
     <li>Munyeong Kim and Sungsu Kim. "Generative AI in Mafia-like Game Simulation." arXiv preprint, 2023. Earlier archival/preprint version of the project. <a href="https://arxiv.org/abs/2309.11672">arXiv</a></li>
     <li>Munyeong Kim. "GPTs in Mafia-like Game Simulation." CHI 2024 Student Research Competition. Conference version of the earlier project; research advised by Sungsu Kim. <a href="https://dl.acm.org/doi/10.1145/3613905.3647958">ACM Digital Library</a></li>
