@@ -23,7 +23,7 @@ Find Me
 
 <section id="cv">
   <h2>CV</h2>
-  <p><a href="/files/Munyeong_Kim_CV_251119.pdf" target="_blank" rel="noopener noreferrer">Click here</a>. Current version: Nov. 19, 2025.</p>
+  <p><a href="/files/Munyeong_Kim_CV_260504.pdf" target="_blank" rel="noopener noreferrer">Click here</a>. Current version: May 4, 2026.</p>
 </section>
 
 <section id="publications">
