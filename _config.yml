@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Munyeong Kim | 김문영"
+title                    : "Munyeong Kim | 김문영 (金汶暎)"
 title_separator          : "-"
-name                     : &name "Munyeong Kim | 김문영"
+name                     : &name "Munyeong Kim | 김문영 (金汶暎)"
 description              : &description "Ph.D. student at Université de Montréal DIRO working on human-AI agent interaction and AI memory"
 url                      : https://munyeongkim.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "MunyeongKim/munyeongkim.github.io"
 author:
   # Biographic information
   avatar           : "Munyeong Kim profile.jpg"
-  name             : "Munyeong Kim | 김문영"
+  name             : "Munyeong Kim | 김문영 (金汶暎)"
   pronouns         : "he/him"
   bio              : "Ph.D. student"
   location         : "Montréal, QC, Canada"

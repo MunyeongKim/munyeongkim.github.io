@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Munyeong Kim (김문영)**, a Ph.D. student in the Department of Computer Science and Operations Research (DIRO) at Université de Montréal.
+I am **Munyeong Kim (김문영, 金汶暎)**, a Ph.D. student in the Department of Computer Science and Operations Research (DIRO) at Université de Montréal.
 
 My research focuses on human-AI agent interaction, especially the memory systems that interactive agents build over time. I study what agents remember through interaction, how those memories can be refined, and how users can shape or design them.
 
