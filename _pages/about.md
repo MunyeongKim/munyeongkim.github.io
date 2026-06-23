@@ -33,9 +33,9 @@ Find Me
       <span class="pub-title">"Metaphors for Memory: Charting a Design Space of AI Memory Tools and Interfaces."</span>
       <span class="pub-citation">Munyeong Kim, Michalis Famelis, and Ian Arawjo. Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS '26).</span>
       <div class="pub-actions" aria-label="Links for Metaphors for Memory">
-        <a class="pub-action" href="/files/dis26-163-metaphors-for-memory.pdf">Paper PDF</a>
-        <a class="pub-action" href="https://doi.org/10.1145/3800645.3812979">DOI</a>
-        <a class="pub-action" href="/files/dis26-metaphors-for-memory-slides.pdf">Slides</a>
+        <a href="/files/dis26-163-metaphors-for-memory.pdf">PDF</a>
+        <a href="https://doi.org/10.1145/3800645.3812979">DOI</a>
+        <a href="/files/dis26-metaphors-for-memory-slides.pdf">Slides</a>
       </div>
       <details class="pub-note">
         <summary>About this paper</summary>
