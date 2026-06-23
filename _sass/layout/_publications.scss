@@ -44,30 +44,27 @@
   }
 }
 
-.page__content .pub-action--download {
-  color: var(--global-text-color);
-}
-
 .pub-note {
   margin: 0.35rem 0 0.9rem;
-  color: var(--global-text-color);
+  color: var(--global-text-color-light);
 }
 
 .page__content .pub-note summary {
   display: list-item;
   width: fit-content;
-  color: var(--global-link-color);
+  color: var(--global-text-color-light);
   font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   font-weight: 600;
   cursor: pointer;
 }
 
 .page__content .pub-note summary:hover {
-  color: var(--global-link-color-hover);
+  color: var(--global-text-color);
 }
 
 .page__content .pub-note p {
   margin-top: 0.35rem;
-  font-size: 0.95em;
+  font-size: 0.85em;
+  line-height: 1.55;
 }

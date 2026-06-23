@@ -35,7 +35,7 @@ Find Me
       <div class="pub-actions" aria-label="Links for Metaphors for Memory">
         <a class="pub-action" href="/files/dis26-163-metaphors-for-memory.pdf">Paper PDF</a>
         <a class="pub-action" href="https://doi.org/10.1145/3800645.3812979">DOI</a>
-        <a class="pub-action pub-action--download" href="/files/dis26-metaphors-for-memory-slides.key">Slides (.key download)</a>
+        <a class="pub-action" href="/files/dis26-metaphors-for-memory-slides.key">Slides</a>
       </div>
       <details class="pub-note">
         <summary>About this paper</summary>
