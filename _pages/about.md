@@ -24,7 +24,6 @@ Find Me
 <section id="cv">
   <h2>CV</h2>
   <p><a href="/files/Munyeong_Kim_CV_260504.pdf" target="_blank" rel="noopener noreferrer">Click here</a>. Current version: May 4, 2026.</p>
-  <p><a href="/files/Kim_Munyeong_2026_memoire.pdf" target="_blank" rel="noopener noreferrer">Thesis (mémoire)</a>.</p>
 </section>
 
 <section id="publications">
@@ -41,6 +40,13 @@ Find Me
     <li>Munyeong Kim. "GPTs in Mafia-like Game Simulation." CHI 2024 Student Research Competition. Conference version of the earlier project; research advised by Sungsu Kim. <a href="https://dl.acm.org/doi/10.1145/3613905.3647958">ACM Digital Library</a></li>
   </ul>
   <p>For a fuller list, see <a href="https://scholar.google.com/citations?user=mBcMSCwAAAAJ&hl=en">Google Scholar</a>.</p>
+</section>
+
+<section id="thesis">
+  <h2>Thesis</h2>
+  <ul>
+    <li>Munyeong Kim. "Designing Interaction and Management for AI Agent Memory: Design Space, Metaphors, and Interactive Conflict Management." M.Sc. thesis (mémoire), Université de Montréal, 2026. <a href="/files/Kim_Munyeong_2026_memoire.pdf">PDF</a></li>
+  </ul>
 </section>
 
 <section id="talks">
