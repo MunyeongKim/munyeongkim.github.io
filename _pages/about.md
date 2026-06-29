@@ -24,6 +24,7 @@ Find Me
 <section id="cv">
   <h2>CV</h2>
   <p><a href="/files/Munyeong_Kim_CV_260504.pdf" target="_blank" rel="noopener noreferrer">Click here</a>. Current version: May 4, 2026.</p>
+  <p><a href="/files/Kim_Munyeong_2026_memoire.pdf" target="_blank" rel="noopener noreferrer">Thesis (mémoire)</a>.</p>
 </section>
 
 <section id="publications">
